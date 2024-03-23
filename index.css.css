@@ -1,0 +1,140 @@
+.frist-section{
+width: 800px;
+height: 500px;
+background: rgb(39, 145, 145);
+margin: 0 auto;
+}
+
+.header{
+width:600px;
+
+margin: 0 auto;
+}
+nav{
+width: 400px;
+float: right;
+display: block;
+overflow: auto;
+padding-right: 5px;
+}
+
+nav ul{
+list-style: none;
+
+}
+nav li{
+font-size: 10px;
+padding: 10px;
+float: left;
+color: white;
+}
+
+.profile{
+padding-top: 20px;
+float: left;
+color: white;
+}
+
+.secent-part{
+margin-left: 100px;
+width: 300px;
+margin-top: 40px;
+float: left;
+}
+
+ .right img{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+}
+.right{
+margin-top: 50px;
+margin-right: 40px;
+float: right;
+}
+
+.button1 a{
+text-decoration: none;
+text-align: center;
+}
+.all-doc{
+
+background: #f5f6fa;
+width: 800px;
+height: 700px;
+margin: 0 auto;
+
+}
+
+.footer img{
+width: 250px;
+float: left;
+height: 200px;
+margin-left: 0px;
+}
+
+.content{
+
+float: left;
+margin-left: 10px;
+
+margin-top: 80px;
+}
+
+.social{
+
+display: flex;
+
+}
+
+a{
+width: 50px;
+height: 50px;
+background-color: #f5f6fa;
+border-radius: 25px;
+text-align: center;
+line-height: 50px;
+margin-left: 5px;
+box-shadow: 1px 2px 1px 1px #dcdde1;
+}
+
+a i{
+transition: all .3s linear;
+
+}
+
+a:hover i{
+transform: scale(1.4);
+
+}
+.fa-facebook{
+color: #3b5998;
+
+}
+
+.fa-instagram{
+color: purple;
+
+}
+
+.fa-twitter{
+
+color: #00acee;
+
+}
+
+.fa-linkedin{
+
+color:0e76a8;
+
+}
+.fa-youtube{
+
+color: #c4302b;
+
+}
+
+
+
+
+
